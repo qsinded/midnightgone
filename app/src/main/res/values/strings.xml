@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">Detects which app is open so PhoneLock can block it during your scheduled lockout. It does not read screen content.</string>
+</resources>
